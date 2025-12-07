@@ -1,4 +1,4 @@
-<h2 style="color:#00BFFF;">Hi 👋! My name is <span style="color:#FF8C00;">Sadat</span> and I'm a <span style="color:#8A2BE2;">DevOps / Cloud Engineer</span>, from <span style="color:#FF1493;">Karlsruhe, DE</span>.</h2>
+<h2 style="color:#00BFFF;">Hi 👋! I am <span style="color:#FF8C00;">Sadat</span> and I'm a <span style="color:#8A2BE2;">DevOps / Cloud Engineer</span>, from <span style="color:#FF1493;">Karlsruhe, DE</span>.</h2>
 
 ###
 
