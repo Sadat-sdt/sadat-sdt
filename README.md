@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&multiline=true&width=435&separator=%3C&lines=Hi%F0%9F%91%8B!+I'm+Sadat+a+DevOps+%2F+Cloud+Engineer%3CHobby+%3D%3E+%3A()%7B+%3A%7C%3A%26+%7D;%3A" alt="Typing SVG" /></a>
+<h2 style="color:#00BFFF;">Hi 👋! I am <span style="color:#FF8C00;">Sadat</span> a <span style="color:#8A2BE2;">DevOps / Cloud Engineer</span>, in <span style="color:#FF1493;"> South Germany</span>.</h2>
 ###
 
 <div align="center">
